@@ -1,0 +1,1 @@
+g++ -o compositeLinux composite_concreto.cpp
